@@ -26,4 +26,7 @@ h2{
 button{
     display: block;
     margin: 0 auto;
+    background-color: red;
+    color: black;
+    font-family: 'Roboto Slab', serif;
 }
