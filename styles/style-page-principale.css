@@ -1,0 +1,18 @@
+img{
+    width: 147px;
+    height: 196px;
+}
+
+html{
+    font-size: 20px;
+    font-family: 'Roboto Slab', serif;
+    background-color: black ;
+    color: white;
+}
+
+body{
+    width: auto;
+    margin: 0;
+    border: 0;
+    padding: 30px 30px 40px 40px;
+  }
