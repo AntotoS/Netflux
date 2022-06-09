@@ -9,7 +9,11 @@ body{
     width: auto;
     margin: 0;
     border: 0;
-    padding: 30px 30px 40px 40px;
+    padding: 20px 0 40px 50px;
+}
+
+header{
+    box-shadow: 0 5px 0 red;
 }
 
 .affiche-films{
@@ -22,4 +26,9 @@ body{
 
 h2{
     font-size: 1.5em;
+}
+
+a{
+    text-decoration: none;
+    color: white;
 }
