@@ -1,5 +1,5 @@
 html{
-    font-size: 20px;
+    font-size: 1em;
     font-family: 'Roboto Slab', serif;
     background-color: black ;
     color: white;
@@ -10,8 +10,16 @@ body{
     margin: 0;
     border: 0;
     padding: 30px 30px 40px 40px;
-  }
+}
 
 .affiche-films{
     float: left;
+}
+
+.titre-categorie{
+    clear: left;
+}
+
+h2{
+    font-size: 1.5em;
 }
